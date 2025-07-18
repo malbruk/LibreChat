@@ -1,0 +1,7 @@
+pre:has(code) {
+  direction: ltr;;
+}
+
+#messages-view > main > div > div > div > div > div{
+    direction: rtl;
+}
